@@ -1,0 +1,16 @@
+{
+  "name": "microfront-common",
+  "version": "1.0.0",
+  "description": "common config for micro frontends",
+  "main": "index.js",
+  "files": [
+    "webpack",
+    "jest"
+  ],
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "webpack-merge": "^5.2.0"
+  }
+}
